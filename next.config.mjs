@@ -7,7 +7,7 @@ const nextConfig = {
         hostname: 'tailus.io',
       }
     ]
-  }
+  },
 };
 
 export default nextConfig;
