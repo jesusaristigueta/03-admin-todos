@@ -29,6 +29,11 @@ npx prisma generate
 localhost:3000/api/seed
 ```
 
+## Nota: 
+
+__usuario:__ prueba@correo.com
+__password:__ 123456
+
 # Prisma commands
 
 ```bash
